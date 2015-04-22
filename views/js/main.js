@@ -431,7 +431,7 @@ var resizePizzas = function(size) {
 
   // Iterates through pizza elements on the page and changes their widths
   // I put document.querySelectorAll(".randomPizzaContainer") into a single variable
-  // removed dx var and used newwidth assigned above instead of recalculating it
+  // removed dx var and used newWidth assigned above instead of recalculating it
   function changePizzaSizes(size) {
     switch(size) {
       case "1":
