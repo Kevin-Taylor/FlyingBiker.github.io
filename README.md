@@ -22,6 +22,11 @@ To get 60 fps pizza.html
   - Rebuilt changeSliderLabel and changePizzaSizes per Cam's instructions in the Browser Rendering Optimization course
   - Updated updatePositions, putting lookups and calculations into variables and using those inside the for loop
 
+- minified views/css/style.css using cssminifier.com
+  - Saved as views/css/style-prod.css
+- minified view/js/main.js using http://javascript-minifier.com
+  - Saved as view/js/main-prod.js
+
 
 References:
 - Website Performance Optimization and Browser Rendering Optimization courses
